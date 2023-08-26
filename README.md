@@ -12,7 +12,7 @@ While developing this project, features used are :
 5) `Scikit-learn`
 
 # To Start the code :
-1) `Open Administrative Windows Powershell`
+1) Open Administrative Windows Powershell
 2) Type `cd "Location of the project"` and Enter
 3) Type `Jupyter notebook` and Enter
 4) The Jupyter Notebook will open in the browser
